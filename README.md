@@ -7,7 +7,7 @@
 	<a href="https://technovexis.blogspot.com" target="blank"><img src="/link.svg"></a>
 	<a href="https://youtube.com/@technovexis" target="blank"><img src="/youtube.svg"></a>
 	<a href="https://dribble.com/ajmalrazzaq07" target="blank"><img src="/dribble.svg"></a>
-	<a href="https://www.linkedin.com/in/ajmalrazzaq07/" target="blank"><img src="/linkedin.svg"></a>
+	<a href="https://www.linkedin.com/in/ajmalrazzaq07/" target="blank"><img src="/linkedin.svg"> </a>
 	</div>
 
 
