@@ -3,7 +3,7 @@
 <h3 align="center">A Frontend Developer</h3>
 <h3 align="center">Currently Doing Bachelors In Computer Science</h3>
 
-<div> <img src="https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
 
 <!-- <div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
 <p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
