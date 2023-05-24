@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @ajmalrazzaq07
-- 👀 I’m interested in ... Web Technologies
-- 🌱 I’m currently learning ... JS and SCSS
-- 💞️ I’m looking to collaborate on ... Frontend Dev
 
-<!---
-ajmalrazzaq07/ajmalrazzaq07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Logo](https://sdk.bitmoji.com/render/panel/20048676-99610610993_111-s5-v1.png?transparent=1&palette=1&scale=1)
+
+
+# Hey, i am Ajmal! 😷
+
+
+
+
+
+## 🚀 About Me
+I am a frontend Developer.
+
+
+## 🛠 Skills
+JAVASCRIPT,HTML,CSS,SCSS
+
+REACT,VUE (LEARNING)
+
+
+
