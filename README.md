@@ -3,8 +3,11 @@
 <h3 align="center">A Frontend Developer</h3>
 <h3 align="center">Currently Doing Bachelors In Computer Science</h3>
 
-<div align="center"> <h3> Lets Connect<h3/><br/><a href="https://instagram.com/ajmalrazzaq07"><img src="/youtube.svg"></a>
-	<a href="https://instagram.com/ajmalrazzaq07"><img src="/dribble.svg"></a>
+<div align="center"> <h3> Lets Connect<h3/><br/>
+	<a href="https://technovexis.blogspot.com"><img src="/link.svg"></a>
+	<a href="https://youtube.com/@technovexis"><img src="/youtube.svg"></a>
+	<a href="https://dribble.com/ajmalrazzaq07"><img src="/dribble.svg"></a>
+	<a href="https://www.linkedin.com/in/ajmalrazzaq07/"><img src="/linkedin.svg"></a>
 	</div>
 
 
