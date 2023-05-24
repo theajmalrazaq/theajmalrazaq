@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="/snowman.svg" /><br/>Ajmal Razzaq Bhatti </h1>
 
-<h3 align="center">Frontend DEV</h3>
-<h3 align="center">Currently Doing bachelors in Computer Science</h3>
+<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">Currently Doing Bachelors In Computer Science</h3>
 
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
 
