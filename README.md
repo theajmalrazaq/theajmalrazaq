@@ -1,3 +1,4 @@
+<html>
 <h1 align="center"> <img src="/snowman.svg" /><br/>Ajmal Razzaq Bhatti </h1>
 
 <h3 align="center">A Frontend Developer</h3>
@@ -11,8 +12,8 @@
 	</div>
  <div id="content">
 	</div>
-	<br/>
-	## Blog posts
+	<br/></html>
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
 - [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
