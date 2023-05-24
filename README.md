@@ -1,4 +1,4 @@
-<h1 align="center" transform="uppercase">Heyy<img src="/snowman.svg" />
+<h1 align="center" style="text-transform:uppercase;">Heyy<img src="/snowman.svg" />
 
 	Its Ajmal Razzaq Bhatti </h1>
 
