@@ -9,6 +9,16 @@
 	<a href="https://dribble.com/ajmalrazzaq07" target="blank"><img src="/dribble.svg"></a>
 	<a href="https://www.linkedin.com/in/ajmalrazzaq07/" target="blank"><img src="/linkedin.svg"> </a>
 	</div>
-
+ <div id="content"></div>
+    <script>
+      function handleResponse(response) {
+        for (let index = 0; index < response.items.length; index++) {
+          document.getElementById(
+            "content"
+          ).innerHTML += `<a href="${response.items[index].url}"><h3>${response.items[index].title}<h3/><a/>`;
+        }
+      }
+    </script>
+    <script src="https://www.googleapis.com/blogger/v3/blogs/7016632769047313605/posts?callback=handleResponse&key=AIzaSyCdhZUApTL8uPMeTg89vp6dLJdkZoC8WyI"></script>
 
 
