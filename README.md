@@ -1,4 +1,6 @@
-<h1 align="center">Heyy Its Me, Ajmal Razzaq Bhatti <img src="/snowman.svg" /></h1>
+<h1 align="center">Heyy<img src="/snowman.svg" />
+	<br/>
+	Its Ajmal Razzaq Bhatti </h1>
 
 <h3 align="center">Frontend DEV</h3>
 <h3 align="center">Currently Doing bachelors in Computer Science</h3>
