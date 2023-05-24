@@ -11,6 +11,7 @@
 	</div>
  <div id="content">
 	</div>
-	<body>
-	<script src="https://www.googleapis.com/blogger/v3/blogs/7016632769047313605/posts?callback=handleResponse&key=AIzaSyCdhZUApTL8uPMeTg89vp6dLJdkZoC8WyI"></script></body>
+	# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
