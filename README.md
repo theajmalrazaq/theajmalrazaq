@@ -10,7 +10,7 @@
 	<a href="https://www.linkedin.com/in/ajmalrazzaq07/" target="blank"><img src="/linkedin.svg"> </a>
 	</div>
  <div id="content">
-	<script src="https://www.googleapis.com/blogger/v3/blogs/7016632769047313605/posts?callback=handleResponse&key=AIzaSyCdhZUApTL8uPMeTg89vp6dLJdkZoC8WyI"></script>
 	</div>
-
+	<body>
+	<script src="https://www.googleapis.com/blogger/v3/blogs/7016632769047313605/posts?callback=handleResponse&key=AIzaSyCdhZUApTL8uPMeTg89vp6dLJdkZoC8WyI"></script></body>
 
