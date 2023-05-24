@@ -1,5 +1,5 @@
-<h1 align="center">Heyy<img src="/snowman.svg" />
-	<br/>
+<h1 align="center" transform="uppercase">Heyy<img src="/snowman.svg" />
+
 	Its Ajmal Razzaq Bhatti </h1>
 
 <h3 align="center">Frontend DEV</h3>
