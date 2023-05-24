@@ -11,7 +11,8 @@
 	</div>
  <div id="content">
 	</div>
-	# Blog posts
+	<br/>
+	## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
