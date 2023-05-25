@@ -10,14 +10,10 @@
 	<a href="https://dribble.com/ajmalrazzaq07" target="blank"><img src="/dribble.svg"></a>
 	<a href="https://www.linkedin.com/in/ajmalrazzaq07/" target="blank"><img src="/linkedin.svg"> </a>
 	</div>
-	<h3 align="center">Recent Post </h3>
-	<!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
-- [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
-- [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
-- [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
-- [How to Create Your Own Royalty-Free Music on Android in 3 Easy Ways](https://technovexis.blogspot.com/2023/04/generate loyality free music on android.html)
-<!-- BLOG-POST-LIST:END -->
+	<br/>
+	
+# Recent Post
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 	
 	
 
