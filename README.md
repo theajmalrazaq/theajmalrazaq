@@ -19,13 +19,12 @@
 - [How to Create Your Own Royalty-Free Music on Android in 3 Easy Ways](https://technovexis.blogspot.com/2023/04/generate loyality free music on android.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Github Stats
+<h3 align="center">Github Stats</h3>
+<img src="/streak.svg" align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajmalrazzaq07&show_icons=true&locale=en&layout=compact" alt="ajmalrazzaq07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalrazzaq07&show_icons=true&locale=en" alt="ajmalrazzaq07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalrazzaq07&" alt="ajmalrazzaq07" /></p>
+
 	
 	
 
