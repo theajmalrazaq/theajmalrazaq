@@ -21,7 +21,8 @@
 <div align="center">
 <h3>Skills</h3>
 <p align="center">
-<strong color="#99ff00d1;">HTML, CSS, JS, SCSS?</strong> Oh, I'm a master of them all. 💁‍♂️✨ Witness my mind-blowing websites with clashing colors, chaotic code, and enough bugs to start a zoo. 🐛🔥 Who needs clean and efficient when you can have a glorious mess? Join me on this sarcastic journey of web development wonders. 
+<strong>HTML, CSS, JS, SCSS?</strong><br/>
+ Oh, I'm a master of them all. 💁‍♂️✨ Witness my mind-blowing websites with clashing colors, chaotic code, and enough bugs to start a zoo. 🐛🔥 Who needs clean and efficient when you can have a glorious mess? Join me on this sarcastic journey of web development wonders. 
 </div>
 
 ### Recent Post
