@@ -24,6 +24,7 @@
 <strong>HTML, CSS, JS, SCSS?</strong><br/>
  Oh, I'm a master of them all. 💁‍♂️✨ Witness my mind-blowing websites with clashing colors, chaotic code, and enough bugs to start a zoo. 🐛🔥 Who needs clean and efficient when you can have a glorious mess? Join me on this sarcastic journey of web development wonders. 
 </div>
+<div align="center">
 
 ### Recent Post
 
@@ -33,6 +34,7 @@
 - [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
 - [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
   <!-- BLOG-POST-LIST:END -->
+  </div>
   <div align="center">
   <h3>Github Stats</h3>
   <img src="/streak.svg">
