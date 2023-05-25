@@ -26,7 +26,7 @@
 </div>
 <div align="center">
 
-### Recent Post
+<h3>Recent Blog Post</h3>
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -34,7 +34,10 @@
 - [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
 - [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
   <!-- BLOG-POST-LIST:END -->
+
+      </div>
+
   <div align="center">
   <h3>Github Stats</h3>
   <img src="/streak.svg">
-  	<div>
+  	</div>
