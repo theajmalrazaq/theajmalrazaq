@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
 - [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
-- [How to Create Your Own Royalty-Free Music on Android in 3 Easy Ways](https://technovexis.blogspot.com/2023/04/generate%20loyality%20free%20music%20on%20android.html)
+- [How to Create Your Own Royalty-Free Music on Android in 3 Easy Ways](https://technovexis.blogspot.com/2023/04/generate loyality free music on android.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
