@@ -31,21 +31,21 @@
             <g style="isolation: isolate">
                 <!-- Total Contributions big number -->
                 <g transform="translate(82.5,48)">
-                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#151515" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s;fill:var(--color-fg-default);">
                         231
                     </text>
                 </g>
 
                 <!-- Total Contributions label -->
                 <g transform="translate(82.5,84)">
-                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#151515" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="14px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.7s">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="14px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.7s;fill:var(--color-fg-default);">
                         Total Contributions
                     </text>
                 </g>
 
                 <!-- Total Contributions range -->
                 <g transform="translate(82.5,114)">
-                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#464646" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.8s">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle"  stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="12px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.8s;fill:var(--color-fg-default);">
                         Mar 15 - Present
                     </text>
                 </g>
