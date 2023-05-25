@@ -31,7 +31,7 @@
             <g style="isolation: isolate">
                 <!-- Total Contributions big number -->
                 <g transform="translate(82.5,48)">
-                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s;fill:var(--color-fg-default);">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="28px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.6s; fill:var(--color-fg-default);">
                         231
                     </text>
                 </g>
@@ -60,7 +60,7 @@
 
                 <!-- Current Streak label -->
                 <g transform="translate(247.5,108)">
-                    <text x="0" y="32" stroke-width="0" text-anchor="middle" fill="#FB8C00" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="14px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.9s">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="14px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.9s;fill:var(--color-fg-default);">
                         Current Streak
                     </text>
                 </g>
