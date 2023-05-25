@@ -38,7 +38,7 @@
 
                 <!-- Total Contributions label -->
                 <g transform="translate(82.5,84)">
-                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" fill:var(--color-fg-default); font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="14px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.7s;">
+                    <text x="0" y="32" stroke-width="0" text-anchor="middle" stroke="none" fill="var(--color-fg-default)" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="400" font-size="14px" font-style="normal" style="opacity: 0; animation: fadein 0.5s linear forwards 0.7s;">
                         Total Contributions
                     </text>
                 </g>
