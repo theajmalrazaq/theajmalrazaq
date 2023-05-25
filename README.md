@@ -16,7 +16,7 @@
 <p align="center">Well, well, well, look who it is! 👀 It's none other than the magnificent Ajmal Razzaq Bhatti, here to grace you with my presence. <br/>
 🙌 Currently enlightening the minds of mere mortals at FAST-NUCES while pretending to be a BSCS superhero.<br/>
  🎓💥 Oh, did I mention I'm a frontend dev? Yep, juggling open-source projects like a pro, because who needs a social life when you have code, right? 😅 <br/>
- Join me on this thrilling journey of sarcasm and questionable coding practices. It's gonna be a wild ride! 🎢✨/p>
+ Join me on this thrilling journey of sarcasm and questionable coding practices. It's gonna be a wild ride! 🎢✨</p>
 </div>
 
 ### Recent Post
