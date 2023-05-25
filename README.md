@@ -18,9 +18,11 @@
 - [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
 - [How to Create Your Own Royalty-Free Music on Android in 3 Easy Ways](https://technovexis.blogspot.com/2023/04/generate loyality free music on android.html)
 <!-- BLOG-POST-LIST:END -->
+<div align="center">
+<h3>Github Stats</h3>
+<img src="/streak.svg">
+	<div>
 
-<h3 align="center">Github Stats</h3>
-<img src="/streak.svg" align="center">
 
 
 
