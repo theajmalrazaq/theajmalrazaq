@@ -12,7 +12,7 @@
 	</div>
 	<br/>
 	
-# Recent Post
+### Recent Post
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 	
 	
