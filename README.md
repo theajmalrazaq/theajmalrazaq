@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="/logo.svg" /><br/>Ajmal Razzaq Bhatti </h1>
+<h1 align="center"> <img src="/logo.svg" height="64" width="64"/><br/>Ajmal Razzaq Bhatti </h1>
 
 <h3 align="center">A Frontend Developer</h3>
 <h3 align="center">Currently Doing Bachelors In Computer Science</h3>
