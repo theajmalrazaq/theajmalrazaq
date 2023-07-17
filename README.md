@@ -33,5 +33,3 @@
 - [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://technovexis.blogspot.com/2023/05/the-ultimate-guide-to-securing-your.html)
 - [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
 <!-- BLOG-POST-LIST:END -->
-
-  	</div>
