@@ -34,6 +34,4 @@
 - [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://technovexis.blogspot.com/2023/04/create-alertbox-using-htmlcss-and.html)
 <!-- BLOG-POST-LIST:END -->
 
-  <h3>Github Stats</h3>
-  <img src="/streak.svg">
   	</div>
