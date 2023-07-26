@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="/logo.svg" height="84" width="84"/><br/>Ajmal Razzaq Bhatti </h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 <h3 align="center">Currently Doing Bachelors In Computer Science</h3>
 
 <div align="center"> <h3> Lets Connect</h3><br/>
