@@ -29,4 +29,7 @@
 <h3>Recent Blog Post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Your Own Royalty-Free Music on Android in 3 Easy Ways](https://techaxium.blogspot.com/2023/05/how-to-create-your-own-royalty-free_25.html)
+- [The Ultimate Guide to Securing Your Facebook Account: Step-by-Step Tutorial](https://techaxium.blogspot.com/2023/05/the-ultimate-guide-to-securing-your_16.html)
+- [Create Auto Disappearing AlertBox Using HTML,CSS And Javascript](https://techaxium.blogspot.com/2023/04/create-auto-disappearing-alertbox-using_25.html)
 <!-- BLOG-POST-LIST:END -->
