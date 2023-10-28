@@ -23,6 +23,8 @@
 <p align="center">
 <strong>HTML, CSS, JS, SCSS?</strong><br/>
  Oh, I'm a master of them all. 💁‍♂️✨ Witness my mind-blowing websites with clashing colors, chaotic code, and enough bugs to start a zoo. 🐛🔥 Who needs clean and efficient when you can have a glorious mess? Join me on this sarcastic journey of web development wonders. 
+
+ [![An image of @theajmalrazaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theajmalrazaq)](https://holopin.io/@theajmalrazaq)
 </div>
 <div align="center">
 
