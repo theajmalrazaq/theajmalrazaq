@@ -13,7 +13,7 @@
 	
 <div align="center">
 
-I'm Ajmal, A Junior Frontend Developer And UI/UX Designer.Here's a glimpse into my journey as a developer:
+I'm Ajmal, A Junior Product Designer and Frontend Developer And.Here's a glimpse into my journey as a developer:
 
 ## Overview
 
