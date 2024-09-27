@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="/logo.svg" height="84" width="84"/><br/>Ajmal Razzaq Bhatti </h1><h3 align="center">Junior Product Designer and Frontend Dev</h3>
+<h1 align="center"> <img src="/logo.svg" height="84" width="84"/><br/>Ajmal Razzaq Bhatti <br/> <h3 align="center">Junior Product Designer and Frontend Dev</h3> </h1>
 
 
 <h3 align="center">Currently Doing Bachelors In Computer Science</h3>
