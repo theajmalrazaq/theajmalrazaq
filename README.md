@@ -1,9 +1,14 @@
-<h1 align="center"> <img src="/logo.svg" height="84" width="84"/><br/>Ajmal Razzaq Bhatti <br/> <h3 align="center">Junior Product Designer and Frontend Dev</h3> </h1>
+<h1 align="center">
+	<img src="/logo.svg" height="84" width="84"/>
+	<br/>
+	Ajmal Razaq Bhatti
+</h1>
 
 
-<h3 align="center">Currently Doing Bachelors In Computer Science</h3>
 
-<div align="center"> <h3> Lets Connect</h3><br/>
+
+<h4 align="center">Junior Product Designer and Frontend Developer</h4>
+<div align="center"> <h3> Let's Connect</h3><br/>
 	<a href="https://techaxium.blogspot.com/" target="blank"><img src="/link.svg"></a>
 	<a href="https://www.youtube.com/@techaxium" target="blank"><img src="/youtube.svg"></a> 
 	<a href="https://dribbble.com/ajmalrazzaq07" target="blank"><img src="/dribble.svg"></a>
