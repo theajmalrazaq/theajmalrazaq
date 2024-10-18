@@ -11,8 +11,8 @@
 <div align="center"> <h3> Let's Connect</h3><br/>
 	<a href="https://techaxium.blogspot.com/" target="blank"><img src="/link.svg"></a>
 	<a href="https://www.youtube.com/@techaxium" target="blank"><img src="/youtube.svg"></a> 
-	<a href="https://dribbble.com/ajmalrazzaq07" target="blank"><img src="/dribble.svg"></a>
-	<a href="https://www.linkedin.com/in/ajmalrazzaq07/" target="blank"><img src="/linkedin.svg"> </a>
+	<a href="https://dribbble.com/theajmalrazaq" target="blank"><img src="/dribble.svg"></a>
+	<a href="https://www.linkedin.com/in/theajmalrazaq/" target="blank"><img src="/linkedin.svg"> </a>
 	</div>
 	<br/>	
 	
