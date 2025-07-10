@@ -1,19 +1,15 @@
 <h1 align="center">
 	<img src="/git.svg"/>
-	
+    <a href="mailto:theajmalrazaq@gmail.com" target="blank"><img src="email.svg" width="300px"/> </a>
+	 <a href="https://www.linkedin.com/in/theajmalrazaq/"><img src="link.svg" width="300px"/> </a>
+	 <a href="https;//github.com/theajmalrazaq"><img src="gitx.svg" width="300px"/> </a>
+	 <a href="https://x.com/theajmalrazaq"><img src="x.svg" width="300px"/> </a>
 </h1>
 
 
 
 
-<h4 align="center">Junior Product Designer and Frontend Developer</h4>
-<div align="center"> <h3> Let's Connect</h3><br/>
-	<a href="https://techaxium.blogspot.com/" target="blank"><img src="/link.svg"></a>
-	<a href="https://www.youtube.com/@techaxium" target="blank"><img src="/youtube.svg"></a> 
-	<a href="https://dribbble.com/theajmalrazaq" target="blank"><img src="/dribble.svg"></a>
-	<a href="https://www.linkedin.com/in/theajmalrazaq/" target="blank"><img src="/linkedin.svg"> </a>
-	</div>
-	<br/>	
+
 	
 <div align="center">
 
