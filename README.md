@@ -1,10 +1,11 @@
 <h1 align="center">
 	<img src="/git.svg"/>
-    <a href="mailto:theajmalrazaq@gmail.com" target="blank"><img src="email.svg" width="300px"/> </a>
-	 <a href="https://www.linkedin.com/in/theajmalrazaq/"><img src="link.svg" width="300px"/> </a>
-	 <a href="https;//github.com/theajmalrazaq"><img src="gitx.svg" width="300px"/> </a>
-	 <a href="https://x.com/theajmalrazaq"><img src="x.svg" width="300px"/> </a>
+	 <a href="mailto:theajmalrazaq@gmail.com" target="blank"><img src="email.svg" width="300px"/> </a>
+	 <a href="https://www.linkedin.com/in/theajmalrazaq/"><img src="link.svg" width="225px"/> </a>
+	 <a href="https;//github.com/theajmalrazaq"><img src="gitx.svg" width="225px"/> </a>
+	 <a href="https://x.com/theajmalrazaq"><img src="x.svg" width="225px"/> </a>
 </h1>
+ 
 
 
 
