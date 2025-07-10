@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="/git.svg" />
+	<img src="/git.svg"/>
 	
 </h1>
 
