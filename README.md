@@ -1,9 +1,9 @@
 <div>
 <h1 align="center">
-	<img src="/git.svg">
+	<img src="/gitcover.svg">
  <a href="mailto:theajmalrazaq@gmail.com" target="blank"><img src="email.svg" width="200px"/>
 	 <a href="https://www.linkedin.com/in/theajmalrazaq/"><img src="link.svg" width="150px"/>
-	 <a href="https://github.com/theajmalrazaq"><img src="gitx.svg" width="150px"/>
+	 <a href="https://github.com/theajmalrazaq"><img src="git.svg" width="150px"/>
 	 <a href="https://x.com/theajmalrazaq"><img src="x.svg" width="150px"/>
 </h1>
 </div>
