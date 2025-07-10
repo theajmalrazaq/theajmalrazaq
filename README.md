@@ -1,7 +1,6 @@
 <h1 align="center">
-	<img src="/logo.svg" height="84" width="84"/>
-	<br/>
-	Ajmal Razaq Bhatti
+	<img src="/git.svg" />
+	
 </h1>
 
 
