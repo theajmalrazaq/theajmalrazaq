@@ -17,7 +17,7 @@ I build responsive web apps and intuitive digital systems focused on **simplicit
 - 📱 Responsive Web Apps & Dashboards  
 - 🛠️ Tools that automate manual workflows  
 
----
+
 
 ## 💼 Highlights
 
@@ -33,7 +33,6 @@ An open-source certificate generator that processes name lists with custom font,
 A PWA for tracking daily liquid purchases with monthly summaries.  
 <sub>Tech: HTML, CSS, Vanilla JS, LocalStorage</sub>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +56,7 @@ A PWA for tracking daily liquid purchases with monthly summaries.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
 
----
+
 
 ## 🏆 Leadership
 
@@ -65,18 +64,16 @@ A PWA for tracking daily liquid purchases with monthly summaries.
 - 🚀 Led digital transformation of society operations  
 - 💬 Organized Git & GitHub sessions for Hacktoberfest prep  
 
----
+
 
 ## 🎓 Academic Pursuits
 
 Currently, I am enrolled in a **Bachelor's program in Computer Science** at **FAST-NUCES**.  
 This academic journey complements my practical experience, providing a well-rounded understanding of the field.
 
----
 
-## 🏅 Hacktoberfest 2023 Badges
 
-<h3>My Holopin Badge Board</h3>
+## 🏅 My Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@theajmalrazaq">
@@ -84,9 +81,8 @@ This academic journey complements my practical experience, providing a well-roun
   </a>
 </p>
 
----
+----
 
 <p align="center">
 	<sub>Built with ❤️ and way too much coffee ☕</sub>
- 
 </p>
