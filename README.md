@@ -86,3 +86,8 @@ This academic journey complements my practical experience, providing a well-roun
 <p align="center">
 	<sub>Built with ❤️ and way too much coffee ☕</sub>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theajmalrazaq&color=blue&style=flat" alt="Ajmal's GitHub profile views" />
+</p>
+
